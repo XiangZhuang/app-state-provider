@@ -3,7 +3,7 @@ Context provider structure (with reducers, actions, states) for React Hook.
 
 ---
 
-###Guide:
+### Guide:
 
 - Please copy the store directory into your React project.
 
@@ -18,7 +18,7 @@ Context provider structure (with reducers, actions, states) for React Hook.
 
 ---
 
-###Notes:
+### Notes:
 
 - All state types are restricted by Typescript.
 
